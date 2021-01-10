@@ -1,0 +1,39 @@
+{
+
+ "Account": {
+     "Username": "surup88",
+     "Password": "bung44p1"
+     },
+ "Target Profit":"20",
+ "Target Win": "200",
+ "Lose Target": "00",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "Mining Chance 7 ‰",
+     "Base Bet": "0.00000753",
+     "Max Bet": "OFF",
+     "Chance": "39",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "5",
+          "Max": "7.3"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.1",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "10"
+     }
+  ],
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+
+}
